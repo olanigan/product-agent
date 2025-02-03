@@ -1,0 +1,12 @@
+[project]
+name = "data-agent"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.11"
+dependencies = [
+    "beautifulsoup4>=4.12.3",
+    "pandas>=2.2.3",
+    "pydantic-ai>=0.0.20",
+    "python-dotenv>=1.0.1",
+]

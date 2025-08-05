@@ -1,4 +1,4 @@
-# data-agent
+# product-agent
 AI-powered Product Data Extraction Agent
 
 ## Overview
